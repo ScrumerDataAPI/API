@@ -4,12 +4,19 @@
 
 <p>
    <a href="#sobre">1.Sobre</a>
+   <br>
    <a href="#backlogs">2.Backlogs</a>
+   <br>
    <a href="#user-stories">3.User Stories</a>
-   <a href="#prototipo">4.Protótipo</a>![Referencia](https://user-images.githubusercontent.com/127904356/227745328-5ef8f303-32d3-46a5-bc6c-09e2e69ab825.png)
+   <br>
+   <a href="#prototipo">4.Protótipo</a>
+   <br>
    <a href="#tecnologias">5.Tecnologias</a>
+   <br>
    <a href="#equipe">6.Equipe</a>
+   <br>
    <a href="#final">7.Apresentação Final</a>
+   <br>
    <a href="#licenca">8.Licença</a>
 </p>
    
@@ -154,21 +161,13 @@ Protótipo em desenvolvimento
 
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
 
-- [Figma](http://www.figma.com): Prototipagem
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML): Estrutura das páginas do site
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): Estilização do site
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): Interações do site
-- [Python](https://www.python.org/): Back-end
-- [Flask](https://flask.palletsprojects.com/en/2.0.x/): Servidor
-- [Jupyter Notebook](https://jupyter.org/): Análise de dados
-- [Pandas](https://pandas.pydata.org/docs/): Análise de dados
-- [NumPy](https://numpy.org/doc/stable/): Análise de dados
-- [Plotly](https://plotly.com/python/): Geração de gráficos (Jupyter Notebook)
-- [Chart.js](https://www.chartjs.org/): Geração de gráficos (site)
-- [Visual Studio Code](https://code.visualstudio.com/): Codificação
-- [Discord](https://discord.com/): Comunicação
-- [GitHub](https://github.com/): Versionamento e documentação
-- [Google Sheets](https://www.google.com/sheets/about/): Acompanhamento do gráfico de burndown
+- [Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white): Prototipagem
+- [HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white): Estrutura das páginas do site
+- [CSS](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white): Estilização do site
+- [JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black): Interações do site
+- [Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white): Codificação
+- [Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white): Comunicação
+- [GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white): Versionamento e documentação
 
 → [Voltar ao topo](#topo)
 
