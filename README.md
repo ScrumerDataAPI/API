@@ -1,5 +1,4 @@
 # <br id="topo">
-
 <h1 align="center"> 1ª API DO CURSO DE DSM - Fatec Jacareí - Centro Paula Souza</h1>
 
 <p>
@@ -151,7 +150,8 @@ Item	|	Descrição	|	Stories
 ## :desktop_computer: Protótipo
 
 Protótipo em desenvolvimento
-![](/prototipo/demo.gif)
+![prototipo](https://user-images.githubusercontent.com/127904356/227746088-defa4fae-ee22-4cc1-b725-82dc3966b426.png)
+
 
 → [Voltar ao topo](#topo)
 
