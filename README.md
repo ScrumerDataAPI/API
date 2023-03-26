@@ -4,17 +4,13 @@
 <p>
    <a href="#sobre">1.Sobre</a>
    <br>
-   <a href="#backlogs">2.Backlogs</a>
+   <a href="#prototipo">2.Protótipo</a>
    <br>
-   <a href="#user-stories">3.User Stories</a>
+   <a href="#tecnologias">3.Tecnologias</a>
    <br>
-   <a href="#prototipo">4.Protótipo</a>
+   <a href="#equipe">4.Equipe</a>
    <br>
-   <a href="#tecnologias">5.Tecnologias</a>
-   <br>
-   <a href="#equipe">6.Equipe</a>
-   <br>
-   <a href="#final">7.Apresentação Final</a>
+   <a href="#final">7.Referências</a>
    <br>
    <a href="#licenca">8.Licença</a>
 </p>
@@ -71,80 +67,6 @@ Item	|	Descrição	|	Stories
 
 → [Voltar ao topo](#topo)
 
-### Backlog das Sprints
-#### Sprint 1
-| Sprint | Descrição                  |User Story |
-| :--: | :------------------------- |:---:
-|  01  | xxxxxxx             |xx
-|  02  | xxxxxxx |xx
-|  03  | xxxxxxx         |xx
-|  04  | xxxxxx     |xx
-|  05  | xxxx |xx
-
-#### Sprint 2
-
-| Sprint | Descrição                  |User Story |
-| :--: | :------------------------- |:---:
-|  01  | xxxxxxx             |xx
-|  02  | xxxxxxx |xx
-|  03  | xxxxxxx         |xx
-|  04  | xxxxxx     |xx
-|  05  | xxxx |xx
-
-#### Sprint 3
-
-| Sprint | Descrição                  |User Story |
-| :--: | :------------------------- |:---:
-|  01  | xxxxxxx             |xx
-|  02  | xxxxxxx |xx
-|  03  | xxxxxxx         |xx
-|  04  | xxxxxx     |xx
-|  05  | xxxx |xx
-
-#### Sprint 4
-
-| Sprint | Descrição                  |User Story |
-| :--: | :------------------------- |:---:
-|  01  | xxxxxxx             |xx
-|  02  | xxxxxxx |xx
-|  03  | xxxxxxx         |xx
-|  04  | xxxxxx     |xx
-|  05  | xxxx |xx
-
-[clique aqui para ver o planejamento completo!](/planejamento).
-<br>
-
-→ [Voltar ao topo](#topo)
-<span id="user-stories">
-## :mag: User Stories
-|	Código	|	Quem?	|	O quê?	|	Para	|
-|	:---:	|	:---:	|	:---:	|	:---:	|
-|	#01	|		|		|		|
-|	#02	|		|		|		|
-|	#03	|		|		|		|
-|	#04	|		|		|		|
-|	#05	|		|		|		|
-|	#06	|		|		|		|
-|	#07	|		|		|		|
-|	#08	|		|		|		|
-|	#09	|		|		|		|
-|	#10	|		|		|		|
-|	#11	|		|		|		|
-|	#12	|		|		|		|
-|	#13	|		|		|		|
-|	#14	|		|		|		|
-|	#15	|		|		|		|
-|	#16	|		|		|		|
-|	#17	|		|		|		|
-|	#18	|		|		|		|
-|	#19	|		|		|		|
-|	#20	|		|		|		|
-|	#21	|		|		|		|
-|	#22	|		|		|		|
-|	#23	|		|		|		|
-
-→ [Voltar ao topo](#topo)
-
 <span id="prototipo">
 
 ## :desktop_computer: Protótipo
@@ -189,14 +111,7 @@ NICOLAS	|	nicolas.lemos@fatec.sp.gov.br	|	[Lemos05![github (1)](https://user-ima
 
 → [Voltar ao topo](#topo)
 
-<span id="final">
-
-## :clapper: Apresentação Final do Projeto
-
-Clique [aqui](xxxxxxxx) para visualizar o vídeo final do projeto.
-
 <span id="licenca">
-
 
 ## :![Referencia](https://user-images.githubusercontent.com/127904356/227745344-64985a30-71e7-48da-be0f-d716b1c1a0f0.png)Referências:
 [https://github.com/Equipe-01-DSM-2021/projeto-integrador-2021-1]
