@@ -73,7 +73,7 @@ Item	|	Descrição	|	Stories
 
 Protótipo em desenvolvimento
 ![prototipo](https://user-images.githubusercontent.com/127904356/227746088-defa4fae-ee22-4cc1-b725-82dc3966b426.png)
-
+https://www.figma.com/file/6gbyHKTwMu6AtCvpNNlncy/Untitled?node-id=0%3A1&t=2zq51JaLr6tSiequ-1
 
 → [Voltar ao topo](#topo)
 
@@ -102,7 +102,7 @@ NOME	|	EMAIL	|	GITHUB	|	CARGO
 DANIELLE	|	danielle.sismon@fatec.sp.gov.br	|	[DanielleSismon![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/DanielleSismon)	|	PO
 MATEUS	|	matheus.santo2@fatec.sp.gov.br	|	[matheussanto2![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/matheussanto2)	|	Master Scrum
 FRANCIELE	|	franciele.chesere@fatec.sp.gov.br	|	[Chesere![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/ChesereF)|	Tem Dev
-NATHAN	|	thiago.marcilio@fatec.sp.gov.br	|	[Sathanthiago![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/Sathanthiago)	|	Tem Dev
+NATHAN	|	thiago.marcilio@fatec.sp.gov.br	|	[Nathanthiago![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/Sathanthiago)	|	Tem Dev
 JESSICA	|	jessica.riley@fatec.sp.gov.br	|	[jessicaclifton![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/jessicaclifton)	|	Tem Dev
 FERNANDO	|	fernando.ferreira32@fatec.sp.gov.br	|	[fnddavi![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/fnddavi)	|	Tem Dev
 LARISSA	|	larissa.candido@fatec.sp.gov.br	|	[larissaxyz![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/larissaxyz)	|	Tem Dev
