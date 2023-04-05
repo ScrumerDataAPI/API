@@ -73,7 +73,7 @@ Item	|	Descrição	|	Stories
 
 Protótipo em desenvolvimento
 ![prototipo](https://user-images.githubusercontent.com/127904356/227746088-defa4fae-ee22-4cc1-b725-82dc3966b426.png)
-https://www.figma.com/file/6gbyHKTwMu6AtCvpNNlncy/Untitled?node-id=0%3A1&t=2zq51JaLr6tSiequ-1
+https://www.figma.com/file/6gbyHKTwMu6AtCvpNNlncy/Prototipo-de-Site-Scrummerdata?node-id=0%3A1&t=ANco7FaQ7l6z7eZ0-1
 
 → [Voltar ao topo](#topo)
 
