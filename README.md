@@ -76,7 +76,8 @@ Protótipo em desenvolvimento
 <p>Clique aqui e confira no Figma: https://www.figma.com/file/6gbyHKTwMu6AtCvpNNlncy/Prototipo-de-Site-Scrummerdata?node-id=0%3A1&t=ANco7FaQ7l6z7eZ0-1
    </a>
    </p>
-   → [Voltar ao topo](#topo)
+
+→ [Voltar ao topo](#topo)
 
 <span id="tecnologias">
 
