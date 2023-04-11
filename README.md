@@ -20,7 +20,7 @@
 ## :bookmark_tabs: Sobre o projeto
 
 O objetivo do projeto é desenvolver uma Aplicação Web de instruções para desenvolvimento de projetos ágeis (SCRUM) na área de TI
-   <br> [Para a apresentação de slides clique aqui]([https://www.canva.com/design/DAFfpxBQ0jo/Dczruq90oB3rmNVxNUByaQ/edit?utm_source=shareButton&utm_medium=email&utm_campaign=designshare](https://www.canva.com/design/DAFfpxBQ0jo/Dczruq90oB3rmNVxNUByaQ/edit?utm_content=DAFfpxBQ0jo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+   <br> [Para a apresentação de slides clique aqui](https://www.canva.com/design/DAFfpxBQ0jo/Dczruq90oB3rmNVxNUByaQ/edit?utm_content=DAFfpxBQ0jo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Agenda de Sprints
 segunda-feira	|	terça-feira	|	quarta-feira	|	quinta-feira	|	sexta-feira
