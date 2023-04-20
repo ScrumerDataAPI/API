@@ -8,10 +8,13 @@ margin: 0 auto;
 .menu-principal {
     width: 100%;
     background-color: #025159;
-    height: 101px;
+    height: 100px;
     }
 
 .logo {
+    text-align: center;
+
+    /*
 Width:246px;
 Height: 101px;
 margin-top: -7px;
@@ -21,6 +24,7 @@ font-style: italic;
 font-weight: 900;
 font-size: 36px;
 line-height: 44px;
+*/
 }
 
 .usuario {
@@ -38,4 +42,8 @@ width: 1800px;
 height: 956px;
 left: 2px;
 top: 68px;
+}
+
+.header-1 {
+    text-align: center;
 }
