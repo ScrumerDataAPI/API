@@ -6,6 +6,21 @@
 
 O objetivo do projeto é desenvolver uma Aplicação Web de instruções para desenvolvimento de projetos ágeis (SCRUM) na área de TI
    <br> [Para a apresentação de slides clique aqui](https://www.canva.com/design/DAFfpxBQ0jo/Dczruq90oB3rmNVxNUByaQ/edit?utm_content=DAFfpxBQ0jo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+   
+## User Stories
+
+Nº	|	QUEM? (EU COMO_____________)	|	O QUE? (QUERO______________)	|	PORQUE? ( PARA_______________)
+---	|	---	|	---	|	---
+1	|	Cliente	|	Um sistema Web que indique todos os processos do Scrum 	|	para que a equipe utilize a metodologia nos projetos da empresa, afim de reduzir tempo e ter um resultado mais eficiente e eficaz
+2	|	Cliente	|	O treinamento tenha exemplos praticos	|	plena compreensao da metodologia pelo usuario
+3	|	Cliente	|	que tenha um formulario de avaliação	|	analise de compreensão
+4	|	cliente	|	Introduzir hard  e soft skills voltado para o profissional de tecnologia	|	para alto entendimento do usuário em qual habilidade devera procurar desenvolver
+5	|	cliente	|	Que todo o desenvolvimento seja demontrado via GitHub	|	Para controle de versão e fidelização do cliente
+6	|	Estudante	|	Um treinamento com aprendizagem simples e objetiva	|	facil compreensao e absorção
+7	|	Estudante	|	Que o sistema seja de facil navegação e intuitivo	|	poder ter autonomia em seu uso
+8	|	Estudante	|	Que o conteudo seja resumido e visivel	|	evitar longas e cansativas jornadas
+9	|	Estudante	|	Que eu possa visualizar meu rendimento e somatoria de pontos 	|	poder testar meu conhecimento
+10	|	Estudante	|	Receber certificação ao final do curso	|	poder atestar o meu rendimento 
 
 ### Agenda de Sprints
    
