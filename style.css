@@ -17,15 +17,20 @@
 }
 
 main {
-    position: absolute;
+    position: relative;
     min-height: 200vh;
+    }
+
+.content {
+    height: max-content;
 }
+
 
 footer {
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 2.5rem;
+    height:2.5rem;
     color: var(--color-neutral-40);
 }
 
