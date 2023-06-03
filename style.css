@@ -166,3 +166,9 @@ footer {
 .pagina{
     margin: auto;
 }
+
+p {
+    margin: 0;
+    text-indent: 3ch;
+    margin-bottom: 2em; // aumenta o espaço em branco após um parágrafo
+  }
