@@ -11,8 +11,8 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
     integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
-
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style-home.css">
 
 </head>
 
@@ -130,8 +130,104 @@
         </li>
     </div>
   </nav>
-  <div style="position: relative; left:110px; top:10px; z-index: 1;"><img src="imagens/imagem_introducao.png" class="img-fluid" alt="Imagem responsiva"></div>
-  <div style="position:relative; left:10px; top:10px; z-index: 5;"><img src="imagens/fundo.png" class="img-fluid" alt="Imagem responsiva" style="height: 950px;"> </div>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #000;
+    }
+
+    .intro {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      font-family: Arial, sans-serif;
+      color: #ffffff;
+      opacity: 0;
+      animation: fade-in 2s forwards;
+     
+    }
+
+    .intro h1 {
+      font-size: 3.5rem;
+      margin-bottom: 3rem;
+      border-radius: 10%;
+      text-shadow: 0.1em 0.1em 0.4em #028998;
+    }
+
+    .intro p {
+      font-size: 1.5rem;
+      color: #a8a39d;
+    }
+
+    @keyframes fade-in {
+      0% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <div class="bubbles">
+    <span style="--i: 11"></span>
+    <span style="--i: 12"></span>
+    <span style="--i: 24"></span>
+    <span style="--i: 10"></span>
+    <span style="--i: 14"></span>
+    <span style="--i: 23"></span>
+    <span style="--i: 18"></span>
+    <span style="--i: 16"></span>
+    <span style="--i: 19"></span>
+    <span style="--i: 20"></span>
+    <span style="--i: 22"></span>
+    <span style="--i: 25"></span>
+    <span style="--i: 18"></span>
+    <span style="--i: 21"></span>
+    <span style="--i: 15"></span>
+    <span style="--i: 13"></span>
+    <span style="--i: 26"></span>
+    <span style="--i: 17"></span>
+    <span style="--i: 13"></span>
+    <span style="--i: 28"></span>
+    <span style="--i: 11"></span>
+    <span style="--i: 10"></span>
+    <span style="--i: 27"></span>
+    <span style="--i: 23"></span>
+    <span style="--i: 17"></span>
+    <span style="--i: 19"></span>
+    <span style="--i: 21"></span>
+    <span style="--i: 14"></span>
+    <span style="--i: 23"></span>
+    <span style="--i: 15"></span>
+    <span style="--i: 12"></span>
+    <span style="--i: 29"></span>
+    <span style="--i: 27"></span>
+    <span style="--i: 11"></span>
+    <span style="--i: 17"></span>
+    <span style="--i: 24"></span>
+    <span style="--i: 20"></span>
+    <span style="--i: 13"></span>
+    <span style="--i: 19"></span>
+    <span style="--i: 13"></span>
+    <span style="--i: 26"></span>
+    <span style="--i: 21"></span>
+    <span style="--i: 20"></span>
+    <span style="--i: 22"></span>
+    
+  </div>
+</div>
+
+<div class="intro">
+    <h1>Bem-vindo  ao  Scrumer Data</h1>
+    <p>Aproveite a experiência!</p>
+  </div>
       <footer style="height: 0; position: absolute;">
       <div id="footer_content">
           <div id="footer_contacts">

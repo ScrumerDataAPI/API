@@ -1,0 +1,71 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    min-height: 100vh;
+    background: #0c192c;
+  }
+  
+  .container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .bubbles {
+    position: relative;
+    display: flex;
+    --i: 10;
+  }
+  
+  .bubbles span {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    background: #028998;
+    margin: 0 4px;
+    border-radius: 50%;
+    box-shadow: 0 0 0 10px #02515944, 0 0 50px #028998, 0 0 100px#028998;
+    animation: animate 15s linear infinite;
+    animation-duration: calc(200s / var(--i));
+  }
+
+  .bubbles span:nth-child(2n + 1) {
+    background: #6f01d6;
+    box-shadow: 0 0 0 10px #6f01d644, 0 0 50px #6f01d6, 0 0 100px #6f01d6;
+  }
+  
+ 
+  
+  .bubbles span:nth-child(15) {
+    background: #fcfcfc;
+    box-shadow: 0 0 0 10px #fcfcfc44, 0 0 50px #fcfcfc, 0 0 100px #fcfcfc;
+  }
+  .bubbles span:nth-child() {
+    background: #028998;
+    box-shadow: 0 0 0 10px #02899844, 0 0 50px #028998, 0 0 100px #028998;
+  }
+
+  .bubbles span:nth-child(2n + 1) {
+    background: #02649c;
+    box-shadow: 0 0 0 10px #02649c44, 0 0 50px #02649c, 0 0 100px #02649c;
+  }
+  
+  
+  
+
+  
+  @keyframes animate {
+    0% {
+      transform: translateY(100vh) scale(0);
+    }
+    100% {
+      transform: translateY(-10vh) scale(1);
+    }
+  }
+  
